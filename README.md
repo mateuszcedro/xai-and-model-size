@@ -10,3 +10,5 @@ Finally, the Positive Pixel Attribution ratio concerning provided ground-truth d
 Conclusion - there is no statistically significant difference between means of the average number of positively attributed pixels within ground-truth masks across the ResNet models.
 
 Note: Full reproducibility is provided
+
+![grads](https://github.com/mateuszcedro/xai-and-model-size/blob/main/notebook/Grads.png)
